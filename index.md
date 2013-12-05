@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Certification Authority
+tagline: We use the term all the time, but what does it mean?
 ---
 {% include JB/setup %}
 
@@ -13,13 +13,13 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 
 In `_config.yml` remember to specify your own data:
     
-    title : My Blog =)
+    title : Certification Authority
     
     author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+      name : Wes Kussmaul
+      email : wes@osmio.ch
+      github : wkussmaul
+      twitter : thecityofosmio
 
 The theme should reference these variables whenever needed.
     
