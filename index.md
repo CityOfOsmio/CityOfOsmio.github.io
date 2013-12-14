@@ -4,9 +4,10 @@ title: Certification Authority
 tagline: We use the term all the time, but what does it mean?
 ---
 
-Concerned about centralized authority?
 
-Welcome to the club.
+<b>Concerned about centralized authority?
+<br>
+Welcome to the club.</b>
 
 Without a rock solid system of open, participatory governance, centralized authority over things like certification is just an invitation to abuse. We can't allow the Internet to be hijacked by a small core of megalomaniacs, or by some national government or governments.
 
@@ -16,5 +17,6 @@ Small trust networks based upon personalities rather than authoritative procedur
 
 Nor can the solution be found in certification authorities run by national governments. Especially after the Snowden revelations, who wants government agencies issuing and managing our identity certificates?
 
-The expression "governance, not government" points us to the solution, as this video explains: http://www.youtube.com/watch?v=0bU3VUATnzY&list=PLD56377E8E430F98D
+The expression "governance, not government" points us to the solution, as this video explains:
+
 
